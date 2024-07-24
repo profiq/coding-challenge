@@ -1,4 +1,4 @@
-# Coding Challenge - Summer 2024
+# Profiq Coding Challenge - Summer 2024
 
 ### Assigment
 Write the shortest possible prompt that generates a code implementing an LRU cache in Typescript. 
