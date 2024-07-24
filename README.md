@@ -39,7 +39,7 @@ You can test your AI generated code in this project
 https://replit.com/@PetrVecera/ai-challenge-2024#README.md
 
 ## Evaluation
-Your prompt will be tested on gpt-3.5-turbo-0125 with temperature set to 0 and max tokens set to 4096 (all other parameters will have default API values). The tests will be as shown in the Replit
+Your prompt will be tested on gpt-3.5-turbo-0125 with temperature set to 0 and max tokens set to 4096 (all other parameters will have default API values). The tests will be as shown in the Replit. So you can use that to validate that your prompt is generating correct solution.
 
 ### Scoring:
 - First, we will rank participants according to the number of test cases passed
