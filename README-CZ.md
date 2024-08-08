@@ -34,10 +34,10 @@ Hondota by mela prijimat nasledujici objekt:
 
 Tvůj kód automaticky otestujeme na sadu standardních use casů, ale také na několik okrajových casů:
 
-metoda get() by měla vracet hodnotu “undefined”, pokud není klíč nalezen,
-metoda put() by měla přepsat předchozí hodnotu, pokud klíč již existuje,
-konstruktor by měl vyhodit řetězec „INCORRECT_CAPACITY“, pokud maxCapacity není v rozmemí 1 a 10000,
-metoda getMostRecentlyUsedKey() by měla vrátit hodnotu “undefined”, pokud ještě nebyl zpřístupněn žádný klíč nebo pokud je cache prázdná.
+- metoda get() by měla vracet hodnotu “undefined”, pokud není klíč nalezen,
+- metoda put() by měla přepsat předchozí hodnotu, pokud klíč již existuje,
+- konstruktor by měl vyhodit řetězec „INCORRECT_CAPACITY“, pokud maxCapacity není v rozmemí 1 a 10000,
+- metoda getMostRecentlyUsedKey() by měla vrátit hodnotu “undefined”, pokud ještě nebyl zpřístupněn žádný klíč nebo pokud je cache prázdná.
 
 Kód vygenerovaný AI můžete otestovat v tomto projektu: https://replit.com/@PetrVecera/ai-challenge-2024#README.md
 
