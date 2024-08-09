@@ -45,6 +45,6 @@ Kód vygenerovaný AI můžeš otestovat v tomto projektu: https://replit.com/@P
 Tvůj prompt otestujeme na gpt-3.5-turbo-0125 s teplotou nastavenou na 0 a max. počtem tokenů nastaveným na 4096 (všechny ostatní parametry budou mít výchozí hodnoty API).
 
 ### Bodovani
-Nejprve seřadíme účastníky podle počtu úspěšně absolvovaných testů. Dále účastníky se stejným počtem absolvovaných test casů seřadíme podle délky "promptu" vyjádřené počtem vstupních tokenů.
+Pro otestování kódu použijeme testy z [repl.it projektu](https://replit.com/@PetrVecera/ai-challenge-2024#README.md) (výše). Můžeš je tedy použít k ověření, zda tvůj prompt generuje správné řešení. Nejprve seřadíme účastníky podle počtu úspěšně absolvovaných testů. Dále účastníky se stejným počtem absolvovaných test casů seřadíme podle délky "promptu" vyjádřené počtem vstupních tokenů.
 
 V případě dotazů neváhejte vytvořit issue https://github.com/profiq/coding-challenge/issues.
