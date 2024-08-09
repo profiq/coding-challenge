@@ -1,6 +1,6 @@
 # Profiq Coding Challenge - Summer 2024 - CZ version
 
-EN https://github.com/profiq/coding-challenge
+[Engish version](README-EN.md)
 
 ### Zadani
 Napiš co nejkratší prompt, který vygeneruje kód implementující cache LRU v Typescriptu.
