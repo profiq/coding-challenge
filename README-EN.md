@@ -1,6 +1,6 @@
 # Profiq Coding Challenge - Summer 2024
 
-### Assigment
+### Assignment
 Write the shortest possible prompt that generates a code implementing an LRU cache in Typescript. 
 The prompt should generate a class named “LRUCache” with corresponding TypeScript type for the input value.
 
